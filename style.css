@@ -21,7 +21,7 @@
     font-size: 60px;
 }
 span{
-
+color: #ffff76;
 }
 .input-box{
     margin: 40px 0;
@@ -63,4 +63,10 @@ input-box button{
     background-size: 30px;
     cursor: pointer;
 
+}
+#result{
+  font-size: 20px;
+}
+#result span{
+    color: #ffff76;
 }
